@@ -1,0 +1,13 @@
+PETUALANGAN KATA — ILUSTRASI
+
+Dibuat dengan alat bawaan image_gen, mode edit, background transparan.
+Raka: aset/karakter/raka-kata.png
+Robo Arka: aset/karakter/robo-arka-kata.png
+Background kerajaan dipakai kembali dari versi sebelumnya dan disimpan sebagai
+aset/background/kerajaan-kata.png. Animasi diatur lewat CSS/JavaScript.
+
+PROMPT RAKA
+Use case: precise-object-edit. Edit target: the provided transparent PNG of Raka. Adapt this existing 2D anime game character from math adventure to an Indonesian word-reading adventure. Change ONLY the raised plus-sign emblem on his golden round shield into a clearly readable raised gold uppercase letter A. Preserve the same character face, cheerful expression, hat, clothes, scarf, pose, full-body framing, shield shape, colors, outlines, cel shading, proportions, and all other elements. One character only. True transparent background and soft alpha edges, no added background or floor, no text outside the single A emblem. Keep entire figure visible.
+
+PROMPT ROBO ARKA
+Use case: precise-object-edit. Edit target: the provided transparent PNG of Robo Arka. Adapt this existing 2D anime game robot from math adventure to an Indonesian word-reading adventure. Change ONLY the glowing cross emblem inside the circular chest badge into a simple glowing cyan open-book symbol. Preserve the same friendly robot face, eyes, smile, waving hand, pose, armor, antenna, thrusters, full-body framing, colors, outlines, cel shading, proportions, and all other elements. One robot only. True transparent background with soft alpha for cyan glows, no added background or floor, no lettering. Keep entire figure visible.
